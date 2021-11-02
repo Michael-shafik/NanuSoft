@@ -1,0 +1,35 @@
+<?php
+return [
+    'First_title' => 'Why Nanosoft should be your first choice',
+    'First_desc' => 'Our distinction is represented in the quality and beauty of colors in a gray world, because we are success partners and not just an advertising company, we take care of quality in work more than quantity and we create the best creative ideas to attract the attention of target customers, and we develop the best solutions that suit the customer’s needs and build the added value of the brand, and we invest in a way Intensive research and development work to find innovative creative products, due to our more than fifteen years of experience in this field, as well as the specialized cadres we have had who are our partners in every success we do ',
+    'Second_title' => ' who are we',
+    'Second_desc' => 'Nanosoft is a leading digital marketing company in providing integrated services, specializing in providing e-marketing services and designing business identities in addition to web solutions, programming, web hosting services and servers, since our inception and we have put the element of excellence and creativity in mind. We have been working for more than 15 years with a team Work with qualified experience as we have a team consisting of marketers, designers and developers gathered in the field of specialization to develop and innovate. Our goal is to make your company a brand that resonates and tops search results and social media sites, as we focus on the most important metrics and know what it takes to get real results and profits online, and we know that achieving these goals is what moves companies forward, We believe that our clients success is the best measure of our performance. The Internet is our passion, and we are passionate about helping companies achieve their goals. So when you choose Nanosoft as a digital marketing agency, you will not get just an advertisement, but you will get an integrated plan that suits your company, your needs and your goals. We, as a software, advertising and advertising company, are enthusiastic about raising the marketing efficiency of companies in the Arab world. We excel in designing and programming websites, corporate systems, advertising, marketing campaigns, advertising campaigns and social media.',
+    'third_title' => 'Nanosoft for software and advertising ',
+    'third_desc' => ' Fifteen years of experiences are the capital of the company, in which we have been pleased to serve more than 5,000 customers who trusted us, and we never let them down or shake their confidence, and that is what distinguished us over the past years and made us move forward for the better.',
+    "Image" => "Image",
+    "video" => " Image",
+    "" => "",
+
+    // 'About_Us' => 'About Us',
+    // 'Create New About Us' => 'Create New About Us',
+    // 'Add' => 'Add',
+    // 'First_title' => 'First title',
+    // 'First_desc' => 'First desc',
+    // 'Second_title' => 'Second title',
+    // 'Second_desc' => 'Second desc',
+    // 'third_title' => 'third title',
+    // 'third_desc' => 'third desc',
+    // 'Choose_image' => 'Choose image',
+    // 'video' => 'video',
+    // 'Close' => 'Close',
+    // 'Create' => 'Create',
+    // 'Filtering' => 'Filtering',
+    // 'Edite' => 'Edite',
+    // 'Image' => 'Image',
+    // 'Action' => 'Action',
+    // '' => '',  '' => '',
+    // '' => '',
+    // '' => '',
+
+
+];
